@@ -7,5 +7,6 @@ Une pomme apparait par intervalle regulier dans un endroit aléatoire. Les Snake
 ## Comment compiler
 
 Faire:
-```cargo build```
-```cargo run```
+1. Se placer dans le dossier avec la commande src ```cd src```
+2. Build le projet : ```cargo build```
+3. Lancer le jeu :```cargo run```
